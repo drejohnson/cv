@@ -1,0 +1,145 @@
+name: 'DeAndre Johnson'
+info:
+  label: 'Fullstack Web Develpor'
+  image: 'https://avatars1.githubusercontent.com/u/1680153?s=400&v=4'
+  brief: 'I have been doing frontend and backend development since 2010. I began developing in PHP, creating and managing Wordpress based sites. I’m very proficient working in a Linux environment and can configure and mantian Apache and NGINX web servers. Around 2014 I began to primarily use JavaScript for frontend and backend development. I try to utilize the latest tech and best practices for building UI’s in JavaScript using libraries and frameworks like React and Angular. For backend development I utilize Node with Express and GraphQL for fullstack apps.'
+contact:
+  email: dre@phreshr.com
+  phone: null
+  website: null
+meta:
+  format: FRESH@^1.0.0-beta
+  modified: '2018-04-29T11:46:41.122Z'
+location:
+  city: Atlanta
+  region: null
+  country: USA
+  code: ""
+  address: ""
+employment:
+  history:
+    -
+      position: 'Fullstack Developer'
+      employer: 'Tommorrow Pictures'
+      summary: 'Responsible for building and maintaining company/client projects built with various stacks from WordPress, to javascript frameworks (React.js, Angular.js) | Setting up and monitoring web analytics | Maintaining web servers.'
+      start: 'Jun 2013'
+      end: 'Aug 2017'
+      url: 'http://tomorrowpictures.com'
+      keywords: []
+      highlights:
+        - 'Sole/Lead developer on all web based projects'
+        - 'Built and designed the Tomorrow Pictures TV video streaming network'
+        - 'Using the Angular.js framework to build single page apps'
+        - 'Working with React to build performant single page apps and static websites'
+        - 'Building server-side rendered apps with React, Express and GraphQL'
+        - 'Fine-tuning Wordpress for performance, building and customizing themes'
+        - 'Tech stack used includes: Node.js, Express, Angular, Prismic.io, PreRender.io and Webpack.'
+    -
+      position: 'Freelance Web Developer'
+      employer: null
+      summary: 'As a freelance web developer, I worked with a number of creative agencies and clients on projects of varying size and scope. Projects ranged from Wordpress sites/themes to custom built projects in javascript'
+      current: true
+      start: '2012'
+      end: null
+      url: null
+      keywords: []
+      highlights:
+        - 'Working with React to build performant single page apps and static websites'
+        - 'Building server-side rendered apps with React, Express and GraphQL'
+        - 'Fine-tuning Wordpress for performance, building and customizing themes'
+        - 'Working with and contributing to open-source projects'
+        - 'Interfacing with clients and project managers to move projects forward.'
+        - 'Working on various frontend and backend projects at once.'
+    -
+      position: 'Front End Developer'
+      employer: DefCulture
+      summary: 'Responsibility included the conceptualizing of ideas, designing templates and converting designs into HTML templates'
+      start: 'Feb 2008'
+      end: 'Nov 2011'
+      url: null
+      keywords: []
+      highlights:
+        - 'Sole/Lead developer for all web-based projects.'
+        - 'In charge of the overall design of the website'
+        - 'Custom building website from design mocks'
+education:
+  level: ""
+  history:
+    -
+      institution: 'Columbia College Chicago'
+      start: '2004'
+      end: '2007'
+      summary: ""
+      area: Film/Video
+      studyType: Bachelor
+    -
+      institution: 'The Art Institute of Atlanta'
+      start: '2003'
+      end: '2004'
+      summary: ""
+      area: 'Digital Production'
+      studyType: null
+service:
+  history:
+    -
+      type: volunteer
+      position: Teacher
+      organization: 'Coding Kids'
+      start: 'Jan 2017'
+      end: null
+      url: null
+      summary: 'Learning the basics of coding for minority Youth (preteens)'
+skills:
+  sets:
+    -
+      name: Languages
+      level: Expert
+      skills:
+        - HTML
+        - CSS
+        - Sass
+        - 'Responsive Design'
+        - 'Javascript (ES6+)'
+        - ReasonML
+        - Node
+    -
+      name: Libraries
+      level: Intermediate
+      skills:
+        - Angular
+        - React
+        - Redux
+        - 'Reason React'
+        - 'React Apollo'
+        - Hyperapp
+    -
+      name: Frameworks
+      level: Intermediate
+      skills:
+        - Express
+        - 'GraphQL Yoga/Prisma'
+        - Angular
+        - Wordpress
+    -
+      name: 'Build Tools'
+      level: Expert
+      skills:
+        - Webpack
+        - Parcel
+        - Rollup
+        - Gulp
+social:
+  -
+    label: Twitter
+    network: Twitter
+    url: 'http://twitter.com/drePHRESHR'
+    user: drePHRESHR
+  -
+    label: github
+    network: github
+    url: 'https://github.com/drejohnson/'
+    user: drejohnson
+languages:
+  -
+    language: English
+    fluency: 'Native speaker'

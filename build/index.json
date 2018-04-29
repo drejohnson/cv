@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "label": "Fullstack Web Develpor",
+    "email": "dre@phreshr.com",
+    "phone": null,
+    "website": null,
+    "name": "DeAndre Johnson",
+    "summary": "I have been doing frontend and backend development since 2010. I began developing in PHP, creating and managing Wordpress based sites. I’m very proficient working in a Linux environment and can configure and mantian Apache and NGINX web servers. Around 2014 I began to primarily use JavaScript for frontend and backend development. I try to utilize the latest tech and best practices for building UI’s in JavaScript using libraries and frameworks like React and Angular. For backend development I utilize Node with Express and GraphQL for fullstack apps.",
+    "picture": "https://avatars1.githubusercontent.com/u/1680153?s=400&v=4",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "drePHRESHR",
+        "url": "http://twitter.com/drePHRESHR"
+      },
+      {
+        "network": "github",
+        "username": "drejohnson",
+        "url": "https://github.com/drejohnson/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Tommorrow Pictures",
+      "website": "http://tomorrowpictures.com",
+      "position": "Fullstack Developer",
+      "startDate": "Jun 2013",
+      "endDate": "Aug 2017",
+      "summary": "Responsible for building and maintaining company/client projects built with various stacks from WordPress, to javascript frameworks (React.js, Angular.js) | Setting up and monitoring web analytics | Maintaining web servers.",
+      "highlights": [
+        "Sole/Lead developer on all web based projects",
+        "Built and designed the Tomorrow Pictures TV video streaming network",
+        "Using the Angular.js framework to build single page apps",
+        "Working with React to build performant single page apps and static websites",
+        "Building server-side rendered apps with React, Express and GraphQL",
+        "Fine-tuning Wordpress for performance, building and customizing themes",
+        "Tech stack used includes: Node.js, Express, Angular, Prismic.io, PreRender.io and Webpack."
+      ]
+    },
+    {
+      "company": null,
+      "website": null,
+      "position": "Freelance Web Developer",
+      "startDate": "2012",
+      "endDate": null,
+      "summary": "As a freelance web developer, I worked with a number of creative agencies and clients on projects of varying size and scope. Projects ranged from Wordpress sites/themes to custom built projects in javascript",
+      "highlights": [
+        "Working with React to build performant single page apps and static websites",
+        "Building server-side rendered apps with React, Express and GraphQL",
+        "Fine-tuning Wordpress for performance, building and customizing themes",
+        "Working with and contributing to open-source projects",
+        "Interfacing with clients and project managers to move projects forward.",
+        "Working on various frontend and backend projects at once."
+      ]
+    },
+    {
+      "company": "DefCulture",
+      "website": null,
+      "position": "Front End Developer",
+      "startDate": "Feb 2008",
+      "endDate": "Nov 2011",
+      "summary": "Responsibility included the conceptualizing of ideas, designing templates and converting designs into HTML templates",
+      "highlights": [
+        "Sole/Lead developer for all web-based projects.",
+        "In charge of the overall design of the website",
+        "Custom building website from design mocks"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Columbia College Chicago",
+      "startDate": "2004",
+      "endDate": "2007",
+      "area": "Film/Video",
+      "studyType": "Bachelor"
+    },
+    {
+      "institution": "The Art Institute of Atlanta",
+      "startDate": "2003",
+      "endDate": "2004",
+      "area": "Digital Production",
+      "studyType": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Expert",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Sass",
+        "Responsive Design",
+        "Javascript (ES6+)",
+        "ReasonML",
+        "Node"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "Intermediate",
+      "keywords": [
+        "Angular",
+        "React",
+        "Redux",
+        "Reason React",
+        "React Apollo",
+        "Hyperapp"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Intermediate",
+      "keywords": [
+        "Express",
+        "GraphQL Yoga/Prisma",
+        "Angular",
+        "Wordpress"
+      ]
+    },
+    {
+      "name": "Build Tools",
+      "level": "Expert",
+      "keywords": [
+        "Webpack",
+        "Parcel",
+        "Rollup",
+        "Gulp"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Coding Kids",
+      "position": "Teacher",
+      "startDate": "Jan 2017",
+      "endDate": null,
+      "website": null,
+      "summary": "Learning the basics of coding for minority Youth (preteens)"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
