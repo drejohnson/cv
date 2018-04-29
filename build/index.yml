@@ -2,14 +2,14 @@ name: 'DeAndre Johnson'
 info:
   label: 'Fullstack Web Develpor'
   image: 'https://avatars1.githubusercontent.com/u/1680153?s=400&v=4'
-  brief: 'I have been doing frontend and backend development since 2010. I began developing in PHP, creating and managing Wordpress based sites. I’m very proficient working in a Linux environment and can configure and mantian Apache and NGINX web servers. Around 2014 I began to primarily use JavaScript for frontend and backend development. I try to utilize the latest tech and best practices for building UI’s in JavaScript using libraries and frameworks like React and Angular. For backend development I utilize Node with Express and GraphQL for fullstack apps.'
+  brief: 'I am a technology enthusiast with a passion for developing for the web. As a fullstack javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I''m able to construct rich UI''s that interface with a backend that consist of Node.js and GraphQL. My interest in static typing has led me to discover ReasonML/Ocaml which allows me to write type-safe code that compiles to javascript and results in less bugs and better maintainability. In the rapidly evolving landscape of the web, I''m constantly on a journey to learn more.'
 contact:
   email: dre@phreshr.com
   phone: null
   website: null
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2018-04-29T12:39:30.523Z'
+  modified: '2018-04-29T15:52:44.790Z'
 location:
   city: Atlanta
   region: null

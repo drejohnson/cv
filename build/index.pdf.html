@@ -3,31 +3,18 @@
   <head>
     <meta charset="utf-8">
     <title>DeAndre Johnson</title>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <style>html, body, main, section, header, ul, p, h1, h2, h3 {
-  font-family: 'Open Sans', 'sans-serif';
+  font-family: Calibri, 'Open Sans', sans-serif;
   font-size: 14px;
   line-height: 1.4;
   margin: 0; padding: 0;
   display: block;
 }
 
-::selection {
-  color: #fff;
-  background: #e48a8a; /* WebKit/Blink Browsers */
-}
-::-moz-selection {
-  color: #fff;
-  background: #e48a8a; /* Gecko Browsers */
-}
-
-p::selection {
-  color: #fff;
-}
-
 a {
-  color: #C00000;
+  color: #0064BD;
   text-decoration: none;
 }
 
@@ -54,25 +41,27 @@ h2 {
 
 h3, .tenure {
   font-size: 1.5em;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 h3 {
   margin-top: 0;
   margin-bottom: 5px;
-  /*width: 85%;*/
+  width: 85%;
   float: left;
 }
 
 table {
   width: 100%;
   text-transform: uppercase;
+  font-size: 1.3em;
 }
 
 td:first-child {
-  letter-spacing: 0;
-  color: #bd5b5b;
-  font-size: 20px;
+  text-align: right;
+  color: #c00000;
+  /* letter-spacing: 2px; PDF hates letter spacing */
+  font-weight: bold;
 }
 
 td:last-child {
@@ -94,7 +83,7 @@ section {
 }
 
 section > div {
-  margin-top: 2em;
+  margin-top: 1em;
   overflow: hidden; /* Clear floated children */
 }
 
@@ -129,22 +118,6 @@ p, li {
   border-radius: 6px;
   padding: 4px 6px;
   font-size: 85%;
-  font-weight: 600;
-  margin-top: 3px;
-}
-
-.location {
-  border: #e2aaaa dashed 1px;
-  background-color: #ffffff;
-  padding: 3px 6px;
-  border-radius: 6px;
-  float: right;
-  margin-right: 5px;
-  float: right;
-  font-size: 85%;
-  color: #717171;
-  font-weight: 600;
-  margin-top: 3px;
 }
 
 span.keywords {
@@ -170,7 +143,7 @@ h1, h2, .label {
   font-size: 2.5em;
   text-transform: uppercase;
   font-weight: 300;
-  font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Lato', 'sans-serif'
+  font-family: 'Open Sans', 'Segoe UI', sans-serif;
 }
 
 #contact {
@@ -188,7 +161,7 @@ header > span.fa {
   margin-right: 3px;
   position: absolute;
   width: 40px;
-  top: 14px;
+  top: 10px;
   font-size: 30px;
   /*transform: translateX(-110%); PDF no likey */
   margin-left: -50px;
@@ -210,15 +183,6 @@ header > span.fa {
   padding-top: 7px;
   padding-bottom: 7px;
 }
-
-#references > p, #references > p > a {
-  color: #961e1e;
-  text-align: center;
-  margin: 30px;
-  font-weight: bold;
-  letter-spacing: 0;
-  text-transform: uppercase;
-}
 </style>
   </head>
   <body>
@@ -235,7 +199,7 @@ header > span.fa {
 
 
       <section id="summary">
-        I have been doing frontend and backend development since 2010. I began developing in PHP, creating and managing Wordpress based sites. I’m very proficient working in a Linux environment and can configure and mantian Apache and NGINX web servers. Around 2014 I began to primarily use JavaScript for frontend and backend development. I try to utilize the latest tech and best practices for building UI’s in JavaScript using libraries and frameworks like React and Angular. For backend development I utilize Node with Express and GraphQL for fullstack apps.
+        I am a technology enthusiast with a passion for developing for the web. As a fullstack javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I&#39;m able to construct rich UI&#39;s that interface with a backend that consist of Node.js and GraphQL. My interest in static typing has led me to discover ReasonML/Ocaml which allows me to write type-safe code that compiles to javascript and results in less bugs and better maintainability. In the rapidly evolving landscape of the web, I&#39;m constantly on a journey to learn more.
       </section>
 
 
@@ -300,12 +264,13 @@ header > span.fa {
           <header>
             <span class="fa fa-lg fa-building"></span>  <h2>employment</h2>
           </header>
+      
           <div>
             <h3><em>Fullstack Developer</em>,
               <a href="http://tomorrowpictures.com">Tommorrow Pictures</a>
               </h3>
+              <span class="location"></span> 
               <span class="tenure">2013-01 — 2017-01</span>
-              
             <p><p>Responsible for building and maintaining company/client projects built with various stacks from WordPress, to javascript frameworks (React.js, Angular.js) | Setting up and monitoring web analytics | Maintaining web servers.</p>
       </p>
             <ul>
@@ -317,14 +282,14 @@ header > span.fa {
               <li>Fine-tuning Wordpress for performance, building and customizing themes</li>
               <li>Tech stack used includes: Node.js, Express, Angular, Prismic.io, PreRender.io and Webpack.</li>
             </ul>
-            
+                  
           </div>
           <div>
             <h3><em>Freelance Web Developer</em>,
               
               </h3>
+              <span class="location"></span> 
               <span class="tenure">2012-01 — Present</span>
-              
             <p><p>As a freelance web developer, I worked with a number of creative agencies and clients on projects of varying size and scope. Projects ranged from Wordpress sites/themes to custom built projects in javascript</p>
       </p>
             <ul>
@@ -335,14 +300,14 @@ header > span.fa {
               <li>Interfacing with clients and project managers to move projects forward.</li>
               <li>Working on various frontend and backend projects at once.</li>
             </ul>
-            
+                  
           </div>
           <div>
             <h3><em>Front End Developer</em>,
               DefCulture
               </h3>
+              <span class="location"></span> 
               <span class="tenure">2008-01 — 2011-01</span>
-              
             <p><p>Responsibility included the conceptualizing of ideas, designing templates and converting designs into HTML templates</p>
       </p>
             <ul>
@@ -350,7 +315,7 @@ header > span.fa {
               <li>In charge of the overall design of the website</li>
               <li>Custom building website from design mocks</li>
             </ul>
-            
+                  
           </div>
       </section>
 
@@ -367,12 +332,10 @@ header > span.fa {
             <span class="tenure">2004-01 — 2007-01</span>
             
             
-            
           </div>
           <div>
             <h3>The Art Institute of Atlanta</h3>
             <span class="tenure">2003-01 — 2004-01</span>
-            
             
             
           </div>
@@ -391,7 +354,6 @@ header > span.fa {
             Coding Kids
           </h3>
           <span class="tenure">2017-01 — Present</span>
-          
           <p><p>Learning the basics of coding for minority Youth (preteens)</p>
       </p>
           </div>
@@ -411,8 +373,6 @@ header > span.fa {
 
       
 
-
-
-    </main>
-  </body>
+    </div>
+  </main>
 </html>
