@@ -9,7 +9,7 @@ contact:
   website: null
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2018-04-29T11:46:41.122Z'
+  modified: '2018-04-29T12:39:30.523Z'
 location:
   city: Atlanta
   region: null
@@ -92,34 +92,66 @@ service:
 skills:
   sets:
     -
-      name: Languages
+      name: Web
       level: Expert
       skills:
-        - HTML
+        - HTML5
         - CSS
         - Sass
         - 'Responsive Design'
         - 'Javascript (ES6+)'
-        - ReasonML
-        - Node
     -
-      name: Libraries
+      name: Javascript
       level: Intermediate
       skills:
         - Angular
         - React
-        - Redux
-        - 'Reason React'
-        - 'React Apollo'
+        - Apollo
         - Hyperapp
+        - Node
+        - Express
     -
-      name: Frameworks
+      name: Backend
       level: Intermediate
       skills:
+        - Node
         - Express
-        - 'GraphQL Yoga/Prisma'
-        - Angular
-        - Wordpress
+        - Nginx
+    -
+      name: API
+      level: Intermediate
+      skills:
+        - GraphQL
+    -
+      name: Reason/Ocaml
+      level: Intermediate
+      skills:
+        - Reason
+        - ReasonReact
+        - ReasonApollo
+        - bs-express
+    -
+      name: Cloud
+      level: Intermediate
+      skills:
+        - AWS
+        - 'Google Cloud Compute'
+        - Now
+        - Linode
+        - 'Digital Ocean'
+        - CloudFlare
+    -
+      name: Databases
+      level: Intermediate
+      skills:
+        - MySQL
+        - PostgreSQL
+        - MongoDB
+    -
+      name: Architecture
+      level: Intermediate
+      skills:
+        - Serverless
     -
       name: 'Build Tools'
       level: Expert

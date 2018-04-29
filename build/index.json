@@ -86,38 +86,80 @@
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Web",
       "level": "Expert",
       "keywords": [
-        "HTML",
+        "HTML5",
         "CSS",
         "Sass",
         "Responsive Design",
-        "Javascript (ES6+)",
-        "ReasonML",
-        "Node"
+        "Javascript (ES6+)"
       ]
     },
     {
-      "name": "Libraries",
+      "name": "Javascript",
       "level": "Intermediate",
       "keywords": [
         "Angular",
         "React",
-        "Redux",
-        "Reason React",
-        "React Apollo",
-        "Hyperapp"
+        "Apollo",
+        "Hyperapp",
+        "Node",
+        "Express"
       ]
     },
     {
-      "name": "Frameworks",
+      "name": "Backend",
       "level": "Intermediate",
       "keywords": [
+        "Node",
         "Express",
-        "GraphQL Yoga/Prisma",
-        "Angular",
-        "Wordpress"
+        "Nginx"
+      ]
+    },
+    {
+      "name": "API",
+      "level": "Intermediate",
+      "keywords": [
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Reason/Ocaml",
+      "level": "Intermediate",
+      "keywords": [
+        "Reason",
+        "ReasonReact",
+        "ReasonApollo",
+        "bs-express"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "Google Cloud Compute",
+        "Now",
+        "Linode",
+        "Digital Ocean",
+        "CloudFlare"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Architecture",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless"
       ]
     },
     {

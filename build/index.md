@@ -8,9 +8,14 @@ I have been doing frontend and backend development since 2010. I began developin
 
 ## SKILLS
 
-  - Languages: HTML CSS Sass Responsive Design Javascript (ES6+) ReasonML Node 
-  - Libraries: Angular React Redux Reason React React Apollo Hyperapp 
-  - Frameworks: Express GraphQL Yoga/Prisma Angular Wordpress 
+  - Web: HTML5 CSS Sass Responsive Design Javascript (ES6+) 
+  - Javascript: Angular React Apollo Hyperapp Node Express 
+  - Backend: Node Express Nginx 
+  - API: GraphQL 
+  - Reason/Ocaml: Reason ReasonReact ReasonApollo bs-express 
+  - Cloud: AWS Google Cloud Compute Now Linode Digital Ocean CloudFlare 
+  - Databases: MySQL PostgreSQL MongoDB 
+  - Architecture: Serverless 
   - Build Tools: Webpack Parcel Rollup Gulp 
 
 ## EMPLOYMENT
