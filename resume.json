@@ -120,7 +120,15 @@
     {
       "name": "Javascript",
       "level": "Intermediate",
-      "keywords": ["Angular", "React", "Apollo", "Hyperapp", "Node", "Express"]
+      "keywords": [
+        "Angular",
+        "React",
+        "Apollo",
+        "Hyperapp",
+        "Node",
+        "Express",
+        "Typescript"
+      ]
     },
     {
       "name": "Backend",
@@ -157,7 +165,7 @@
     {
       "name": "Architecture",
       "level": "Intermediate",
-      "keywords": ["Serverless"]
+      "keywords": ["Serverless", "Docker"]
     },
     {
       "name": "Build Tools",
