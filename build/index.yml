@@ -2,14 +2,14 @@ name: 'DeAndre Johnson'
 info:
   label: 'Fullstack Web Develpor'
   image: 'https://avatars1.githubusercontent.com/u/1680153?s=400&v=4'
-  brief: 'I am a technology enthusiast with a passion for developing for the web. As a fullstack javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I''m able to construct rich UI''s that interface with a backend that consist of Node.js and GraphQL. My interest in static typing has led me to discover ReasonML/Ocaml which allows me to write type-safe code that compiles to javascript and results in less bugs and better maintainability. In the rapidly evolving landscape of the web, I''m constantly on a journey to learn more.'
+  brief: 'I am a technology enthusiast with a passion for developing for the web. As a fullstack javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I''m able to construct rich UI''s that interface with a backend that consist of Node.js and GraphQL. My interest in static typing has led me to discover ReasonML/Ocaml which allows me to write type-safe code that compiles to javascript and results in less bugs and better maintainability. In the rapidly evolving landscape of web development, I''m constantly on a journey to learn more.'
 contact:
   email: dre@phreshr.com
   phone: null
   website: null
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2018-04-29T15:52:44.790Z'
+  modified: '2018-05-01T06:48:54.643Z'
 location:
   city: Atlanta
   region: null
@@ -21,7 +21,7 @@ employment:
     -
       position: 'Fullstack Developer'
       employer: 'Tommorrow Pictures'
-      summary: 'Responsible for building and maintaining company/client projects built with various stacks from WordPress, to javascript frameworks (React.js, Angular.js) | Setting up and monitoring web analytics | Maintaining web servers.'
+      summary: 'Responsible for building and maintaining company/client projects built with various stacks from WordPress, to javascript libraries/frameworks like React.js, Angular.js and Polymer.js. I was responsible for setting up and monitoring web analytics and also deploying projects to cloud providers and maintaining custom web servers.'
       start: 'Jun 2013'
       end: 'Aug 2017'
       url: 'http://tomorrowpictures.com'
@@ -110,6 +110,7 @@ skills:
         - Hyperapp
         - Node
         - Express
+        - Typescript
     -
       name: Backend
       level: Intermediate
@@ -152,6 +153,7 @@ skills:
       level: Intermediate
       skills:
         - Serverless
+        - Docker
     -
       name: 'Build Tools'
       level: Expert
