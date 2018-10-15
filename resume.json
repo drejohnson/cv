@@ -1,13 +1,12 @@
 {
   "basics": {
     "name": "DeAndre Johnson",
-    "label": "Fullstack Web Develpor",
+    "label": "Frontend/Fullstack Web Develpor",
     "picture": "https://avatars1.githubusercontent.com/u/1680153?s=400&v=4",
     "email": "dre@phreshr.com",
     "phone": null,
     "website": null,
-    "summary":
-      "I am a technology enthusiast with a passion for developing for the web. As a fullstack javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I'm able to construct rich UI's that interface with a backend that consist of Node.js and GraphQL. My interest in static typing has led me to discover ReasonML/Ocaml which allows me to write type-safe code that compiles to javascript and results in less bugs and better maintainability. In the rapidly evolving landscape of web development, I'm constantly on a journey to learn more.",
+    "summary": "I am a technology enthusiast with a passion for developing for the web. As a fullstack javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I'm able to construct rich UI's that interface with a backend that consist of Node.js and GraphQL. My interest in static typing has led me to discover ReasonML/Ocaml which allows me to write type-safe code that compiles to javascript and results in less bugs and better maintainability. In the rapidly evolving landscape of web development, I'm constantly on a journey to learn more.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,13 +29,12 @@
   },
   "work": [
     {
-      "company": "Tommorrow Pictures",
+      "company": "Tomorrow Pictures",
       "position": "Fullstack Developer",
       "website": "http://tomorrowpictures.com",
       "startDate": "Jun 2013",
       "endDate": "Aug 2017",
-      "summary":
-        "Responsible for building and maintaining company/client projects built with various stacks from WordPress, to javascript libraries/frameworks like React.js, Angular.js and Polymer.js. I was responsible for setting up and monitoring web analytics and also deploying projects to cloud providers and maintaining custom web servers.",
+      "summary": "Responsible for building and maintaining company/client projects built with various stacks from WordPress, to javascript libraries/frameworks like React.js, Angular.js and Polymer.js. I was responsible for setting up and monitoring web analytics and also deploying projects to cloud providers and maintaining custom web servers.",
       "highlights": [
         "Sole/Lead developer on all web based projects",
         "Built and designed the Tomorrow Pictures TV video streaming network",
@@ -53,8 +51,7 @@
       "website": null,
       "startDate": "2012",
       "endDate": null,
-      "summary":
-        "As a freelance web developer, I worked with a number of creative agencies and clients on projects of varying size and scope. Projects ranged from Wordpress sites/themes to custom built projects in javascript",
+      "summary": "As a freelance web developer, I worked with a number of creative agencies and clients on projects of varying size and scope. Projects ranged from Wordpress sites/themes to custom built projects in javascript",
       "highlights": [
         "Working with React to build performant single page apps and static websites",
         "Building server-side rendered apps with React, Express and GraphQL",
@@ -70,8 +67,7 @@
       "website": null,
       "startDate": "Feb 2008",
       "endDate": "Nov 2011",
-      "summary":
-        "Responsibility included the conceptualizing of ideas, designing templates and converting designs into HTML templates",
+      "summary": "Responsibility included the conceptualizing of ideas, designing templates and converting designs into HTML templates",
       "highlights": [
         "Sole/Lead developer for all web-based projects.",
         "In charge of the overall design of the website",
