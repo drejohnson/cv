@@ -479,7 +479,7 @@
           <w:rPr>
             <w:color w:val="DADADA"/>
           </w:rPr>
-          <w:t>Fullstack Web Develpor</w:t>
+          <w:t>Frontend/Fullstack Web Develpor</w:t>
         </w:r>
       </w:p>
       <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="00505903" wsp:rsidP="00C146CA">
@@ -931,7 +931,7 @@
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Tommorrow Pictures</w:t>
+          <w:t>Tomorrow Pictures</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">

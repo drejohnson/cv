@@ -1,6 +1,6 @@
 {
   "basics": {
-    "label": "Fullstack Web Develpor",
+    "label": "Frontend/Fullstack Web Develpor",
     "email": "dre@phreshr.com",
     "phone": null,
     "website": null,
@@ -22,7 +22,7 @@
   },
   "work": [
     {
-      "company": "Tommorrow Pictures",
+      "company": "Tomorrow Pictures",
       "website": "http://tomorrowpictures.com",
       "position": "Fullstack Developer",
       "startDate": "Jun 2013",

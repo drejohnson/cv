@@ -20,7 +20,7 @@ I am a technology enthusiast with a passion for developing for the web. As a ful
 
 ## EMPLOYMENT
 
-### *Fullstack Developer*, [Tommorrow Pictures](http://tomorrowpictures.com) (2013-01 — 2017-01)
+### *Fullstack Developer*, [Tomorrow Pictures](http://tomorrowpictures.com) (2013-01 — 2017-01)
 
 Responsible for building and maintaining company/client projects built with various stacks from WordPress, to javascript libraries/frameworks like React.js, Angular.js and Polymer.js. I was responsible for setting up and monitoring web analytics and also deploying projects to cloud providers and maintaining custom web servers.
   - Sole/Lead developer on all web based projects
