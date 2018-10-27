@@ -1,11 +1,11 @@
 {
   "basics": {
-    "label": "Frontend/Fullstack Web Develpor",
+    "label": "Frontend Web Develpor",
     "email": "dre@phreshr.com",
     "phone": null,
-    "website": null,
+    "website": "http://drejohnson.github.io/resume",
     "name": "DeAndre Johnson",
-    "summary": "I am a technology enthusiast with a passion for developing for the web. As a fullstack javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I'm able to construct rich UI's that interface with a backend that consist of Node.js and GraphQL. My interest in static typing has led me to discover ReasonML/Ocaml which allows me to write type-safe code that compiles to javascript and results in less bugs and better maintainability. In the rapidly evolving landscape of web development, I'm constantly on a journey to learn more.",
+    "summary": "I am a tech enthusiast with a passion for developing for the web. As a frontend javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I'm able to construct rich and performant UI's. My goal is to provide the best user experience while also optimizing for speed and performance. In the rapidly evolving landscape of frontend web development, I'm constantly on a journey to learn more and to grow as a developer.",
     "picture": "https://avatars1.githubusercontent.com/u/1680153?s=400&v=4",
     "profiles": [
       {
@@ -22,11 +22,29 @@
   },
   "work": [
     {
+      "company": "Remote/Consultancy",
+      "website": null,
+      "position": "Frontend Developer",
+      "startDate": "2017-10",
+      "endDate": null,
+      "summary": "Collaborated with project managers, and developers to design and develop a backend portal, landing pages, and email marketing campaigns in React.js. Focused on UI performance and offline capabilities.",
+      "highlights": [
+        "Built 'Progressive Web Apps' in React",
+        "Utilized async techniques like code-splitting and lazy-loading",
+        "Developed modular components in React",
+        "Used GraphQL to pull data from various API's",
+        "Connect React frontend interface to Node.js backend",
+        "Working with and contributing to open-source projects",
+        "Worked with as a part of a team of developers, designers and project managers",
+        "Interfacing with clients and project managers to move projects forward."
+      ]
+    },
+    {
       "company": "Tomorrow Pictures",
       "website": "http://tomorrowpictures.com",
-      "position": "Fullstack Developer",
-      "startDate": "Jun 2013",
-      "endDate": "Aug 2017",
+      "position": "Frontend Developer",
+      "startDate": "2013-06",
+      "endDate": "2017-10",
       "summary": "Responsible for building and maintaining company/client projects built with various stacks from WordPress, to javascript libraries/frameworks like React.js, Angular.js and Polymer.js. I was responsible for setting up and monitoring web analytics and also deploying projects to cloud providers and maintaining custom web servers.",
       "highlights": [
         "Sole/Lead developer on all web based projects",
@@ -35,31 +53,30 @@
         "Working with React to build performant single page apps and static websites",
         "Building server-side rendered apps with React, Express and GraphQL",
         "Fine-tuning Wordpress for performance, building and customizing themes",
-        "Tech stack used includes: Node.js, Express, Angular, Prismic.io, PreRender.io and Webpack."
+        "Tech stack used includes: Node.js, Express, Angular, Prismic.io, PreRender.io and Webpack.",
+        "Working on various frontend and backend projects at once."
       ]
     },
     {
-      "company": null,
+      "company": "Beyond Creative",
       "website": null,
       "position": "Freelance Web Developer",
-      "startDate": "2012",
-      "endDate": null,
+      "startDate": "2010-09",
+      "endDate": "2013-04",
       "summary": "As a freelance web developer, I worked with a number of creative agencies and clients on projects of varying size and scope. Projects ranged from Wordpress sites/themes to custom built projects in javascript",
       "highlights": [
-        "Working with React to build performant single page apps and static websites",
-        "Building server-side rendered apps with React, Express and GraphQL",
-        "Fine-tuning Wordpress for performance, building and customizing themes",
-        "Working with and contributing to open-source projects",
-        "Interfacing with clients and project managers to move projects forward.",
-        "Working on various frontend and backend projects at once."
+        "Creating and maintaining WordPress themes and plugins",
+        "Fine-tuning Wordpress for seo and performance",
+        "Designed and built static websites with HTML, CSS and Javascript",
+        "Built JQuery widgets"
       ]
     },
     {
       "company": "DefCulture",
       "website": null,
       "position": "Front End Developer",
-      "startDate": "Feb 2008",
-      "endDate": "Nov 2011",
+      "startDate": "2007-02",
+      "endDate": "2009-02",
       "summary": "Responsibility included the conceptualizing of ideas, designing templates and converting designs into HTML templates",
       "highlights": [
         "Sole/Lead developer for all web-based projects.",
@@ -71,15 +88,15 @@
   "education": [
     {
       "institution": "Columbia College Chicago",
-      "startDate": "2004",
-      "endDate": "2007",
+      "startDate": "2004-09",
+      "endDate": "2007-01",
       "area": "Film/Video",
       "studyType": "Bachelor"
     },
     {
       "institution": "The Art Institute of Atlanta",
-      "startDate": "2003",
-      "endDate": "2004",
+      "startDate": "2003-06",
+      "endDate": "2004-02",
       "area": "Digital Production",
       "studyType": null
     }
@@ -100,10 +117,10 @@
       "name": "Javascript",
       "level": "Intermediate",
       "keywords": [
-        "Angular",
         "React",
+        "Angular",
         "Apollo",
-        "Hyperapp",
+        "Redux",
         "Node",
         "Express",
         "Typescript"
@@ -179,10 +196,10 @@
     {
       "organization": "Coding Kids",
       "position": "Teacher",
-      "startDate": "Jan 2017",
-      "endDate": null,
+      "startDate": "2017-04",
+      "endDate": "2017-06",
       "website": null,
-      "summary": "Learning the basics of coding for minority Youth (preteens)"
+      "summary": "The basics of coding in HTML, CSS and Javascript for minority Youth (preteens)"
     }
   ],
   "languages": [

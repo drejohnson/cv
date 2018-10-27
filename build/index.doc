@@ -479,7 +479,7 @@
           <w:rPr>
             <w:color w:val="DADADA"/>
           </w:rPr>
-          <w:t>Frontend/Fullstack Web Develpor</w:t>
+          <w:t>Frontend Web Develpor</w:t>
         </w:r>
       </w:p>
       <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="00505903" wsp:rsidP="00C146CA">
@@ -516,13 +516,13 @@
           </w:rPr>
           <w:t> - </w:t>
         </w:r>
-        <w:hlink w:dest="">
+        <w:hlink w:dest="http://drejohnson.github.io/resume">
           <w:r wsp:rsidRPr="003876BF">
             <w:rPr>
               <w:rStyle w:val="Hyperlink"/>
               <w:sz w:val="16"/>
             </w:rPr>
-            <w:t></w:t>
+            <w:t>http://drejohnson.github.io/resume</w:t>
           </w:r>
         </w:hlink>
       </w:p>
@@ -530,7 +530,7 @@
         <w:pPr>
           <w:pStyle w:val="Summary"/>
         </w:pPr>
-        <w:r><w:rPr></w:rPr><w:t>I am a technology enthusiast with a passion for developing for the web. As a fullstack javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I&amp;apos;m able to construct rich UI&amp;apos;s that interface with a backend that consist of Node.js and GraphQL. My interest in static typing has led me to discover ReasonML/Ocaml which allows me to write type-safe code that compiles to javascript and results in less bugs and better maintainability. In the rapidly evolving landscape of web development, I&amp;apos;m constantly on a journey to learn more.</w:t></w:r>
+        <w:r><w:rPr></w:rPr><w:t>I am a tech enthusiast with a passion for developing for the web. As a frontend javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I&amp;apos;m able to construct rich and performant UI&amp;apos;s. My goal is to provide the best user experience while also optimizing for speed and performance. In the rapidly evolving landscape of frontend web development, I&amp;apos;m constantly on a journey to learn more and to grow as a developer.</w:t></w:r>
       </w:p>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -619,7 +619,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Angular  React  Apollo  Hyperapp  Node  Express  Typescript</w:t>
+            <w:t>React  Angular  Apollo  Redux  Node  Express  Typescript</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -924,7 +924,166 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Fullstack Developer, </w:t>
+        <w:t>Frontend Developer, </w:t>
+      </w:r>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>Remote/Consultancy</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Oct 2017 — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Collaborated with project managers, and developers to design and develop a backend portal, landing pages, and email marketing campaigns in React.js. Focused on UI performance and offline capabilities.</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Built &amp;apos;Progressive Web Apps&amp;apos; in React</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Utilized async techniques like code-splitting and lazy-loading</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Developed modular components in React</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Used GraphQL to pull data from various API&amp;apos;s</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Connect React frontend interface to Node.js backend</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Working with and contributing to open-source projects</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Worked with as a part of a team of developers, designers and project managers</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Interfacing with clients and project managers to move projects forward.</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Frontend Developer, </w:t>
       </w:r>
       <w:hlink w:dest="http://tomorrowpictures.com">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -941,7 +1100,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Jan 2013 — Jan 2017</w:t>
+        <w:t>Jun 2013 — Oct 2017</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1058,120 +1217,6 @@
       </w:pPr>
       <w:r><w:rPr></w:rPr><w:t>Tech stack used includes: Node.js, Express, Angular, Prismic.io, PreRender.io and Webpack.</w:t></w:r>
     </w:p>
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Freelance Web Developer, </w:t>
-      </w:r>
-      
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t></w:t>
-        </w:r>
-      
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>Jan 2012 — Present</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>As a freelance web developer, I worked with a number of creative agencies and clients on projects of varying size and scope. Projects ranged from Wordpress sites/themes to custom built projects in javascript</w:t></w:r>
-    </w:p>
-
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Working with React to build performant single page apps and static websites</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Building server-side rendered apps with React, Express and GraphQL</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Fine-tuning Wordpress for performance, building and customizing themes</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Working with and contributing to open-source projects</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Interfacing with clients and project managers to move projects forward.</w:t></w:r>
-    </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
         <w:pStyle w:val="ListParagraph"/>
@@ -1200,6 +1245,105 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Freelance Web Developer, </w:t>
+      </w:r>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>Beyond Creative</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Sep 2010 — Apr 2013</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>As a freelance web developer, I worked with a number of creative agencies and clients on projects of varying size and scope. Projects ranged from Wordpress sites/themes to custom built projects in javascript</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Creating and maintaining WordPress themes and plugins</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Fine-tuning Wordpress for seo and performance</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Designed and built static websites with HTML, CSS and Javascript</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Built JQuery widgets</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
         <w:t>Front End Developer, </w:t>
       </w:r>
       
@@ -1214,7 +1358,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Jan 2008 — Jan 2011</w:t>
+        <w:t>Feb 2007 — Feb 2009</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1444,7 +1588,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Jan 2017 — Present</w:t>
+        <w:t>Apr 2017 — Jun 2017</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1453,7 +1597,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Learning the basics of coding for minority Youth (preteens)</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>The basics of coding in HTML, CSS and Javascript for minority Youth (preteens)</w:t></w:r>
     </w:p>
 
 

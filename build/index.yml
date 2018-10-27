@@ -1,15 +1,15 @@
 name: 'DeAndre Johnson'
 info:
-  label: 'Frontend/Fullstack Web Develpor'
+  label: 'Frontend Web Develpor'
   image: 'https://avatars1.githubusercontent.com/u/1680153?s=400&v=4'
-  brief: 'I am a technology enthusiast with a passion for developing for the web. As a fullstack javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I''m able to construct rich UI''s that interface with a backend that consist of Node.js and GraphQL. My interest in static typing has led me to discover ReasonML/Ocaml which allows me to write type-safe code that compiles to javascript and results in less bugs and better maintainability. In the rapidly evolving landscape of web development, I''m constantly on a journey to learn more.'
+  brief: 'I am a tech enthusiast with a passion for developing for the web. As a frontend javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I''m able to construct rich and performant UI''s. My goal is to provide the best user experience while also optimizing for speed and performance. In the rapidly evolving landscape of frontend web development, I''m constantly on a journey to learn more and to grow as a developer.'
 contact:
   email: dre@phreshr.com
   phone: null
-  website: null
+  website: 'http://drejohnson.github.io/resume'
 meta:
   format: FRESH@^1.0.0-beta
-  modified: '2018-10-15T21:13:34.698Z'
+  modified: '2018-10-27T19:10:46.633Z'
 location:
   city: Atlanta
   region: null
@@ -19,11 +19,29 @@ location:
 employment:
   history:
     -
-      position: 'Fullstack Developer'
+      position: 'Frontend Developer'
+      employer: Remote/Consultancy
+      summary: 'Collaborated with project managers, and developers to design and develop a backend portal, landing pages, and email marketing campaigns in React.js. Focused on UI performance and offline capabilities.'
+      current: true
+      start: 2017-10
+      end: null
+      url: null
+      keywords: []
+      highlights:
+        - 'Built ''Progressive Web Apps'' in React'
+        - 'Utilized async techniques like code-splitting and lazy-loading'
+        - 'Developed modular components in React'
+        - 'Used GraphQL to pull data from various API''s'
+        - 'Connect React frontend interface to Node.js backend'
+        - 'Working with and contributing to open-source projects'
+        - 'Worked with as a part of a team of developers, designers and project managers'
+        - 'Interfacing with clients and project managers to move projects forward.'
+    -
+      position: 'Frontend Developer'
       employer: 'Tomorrow Pictures'
       summary: 'Responsible for building and maintaining company/client projects built with various stacks from WordPress, to javascript libraries/frameworks like React.js, Angular.js and Polymer.js. I was responsible for setting up and monitoring web analytics and also deploying projects to cloud providers and maintaining custom web servers.'
-      start: 'Jun 2013'
-      end: 'Aug 2017'
+      start: 2013-06
+      end: 2017-10
       url: 'http://tomorrowpictures.com'
       keywords: []
       highlights:
@@ -34,28 +52,26 @@ employment:
         - 'Building server-side rendered apps with React, Express and GraphQL'
         - 'Fine-tuning Wordpress for performance, building and customizing themes'
         - 'Tech stack used includes: Node.js, Express, Angular, Prismic.io, PreRender.io and Webpack.'
+        - 'Working on various frontend and backend projects at once.'
     -
       position: 'Freelance Web Developer'
-      employer: null
+      employer: 'Beyond Creative'
       summary: 'As a freelance web developer, I worked with a number of creative agencies and clients on projects of varying size and scope. Projects ranged from Wordpress sites/themes to custom built projects in javascript'
-      current: true
-      start: '2012'
-      end: null
+      start: 2010-09
+      end: 2013-04
       url: null
       keywords: []
       highlights:
-        - 'Working with React to build performant single page apps and static websites'
-        - 'Building server-side rendered apps with React, Express and GraphQL'
-        - 'Fine-tuning Wordpress for performance, building and customizing themes'
-        - 'Working with and contributing to open-source projects'
-        - 'Interfacing with clients and project managers to move projects forward.'
-        - 'Working on various frontend and backend projects at once.'
+        - 'Creating and maintaining WordPress themes and plugins'
+        - 'Fine-tuning Wordpress for seo and performance'
+        - 'Designed and built static websites with HTML, CSS and Javascript'
+        - 'Built JQuery widgets'
     -
       position: 'Front End Developer'
       employer: DefCulture
       summary: 'Responsibility included the conceptualizing of ideas, designing templates and converting designs into HTML templates'
-      start: 'Feb 2008'
-      end: 'Nov 2011'
+      start: 2007-02
+      end: 2009-02
       url: null
       keywords: []
       highlights:
@@ -67,15 +83,15 @@ education:
   history:
     -
       institution: 'Columbia College Chicago'
-      start: '2004'
-      end: '2007'
+      start: 2004-09
+      end: 2007-01
       summary: ""
       area: Film/Video
       studyType: Bachelor
     -
       institution: 'The Art Institute of Atlanta'
-      start: '2003'
-      end: '2004'
+      start: 2003-06
+      end: 2004-02
       summary: ""
       area: 'Digital Production'
       studyType: null
@@ -85,10 +101,10 @@ service:
       type: volunteer
       position: Teacher
       organization: 'Coding Kids'
-      start: 'Jan 2017'
-      end: null
+      start: 2017-04
+      end: 2017-06
       url: null
-      summary: 'Learning the basics of coding for minority Youth (preteens)'
+      summary: 'The basics of coding in HTML, CSS and Javascript for minority Youth (preteens)'
 skills:
   sets:
     -
@@ -104,10 +120,10 @@ skills:
       name: Javascript
       level: Intermediate
       skills:
-        - Angular
         - React
+        - Angular
         - Apollo
-        - Hyperapp
+        - Redux
         - Node
         - Express
         - Typescript
