@@ -3,16 +3,16 @@
     "name": "DeAndre Johnson",
     "label": "Frontend Web Develpor",
     "picture": "https://avatars1.githubusercontent.com/u/1680153?s=400&v=4",
-    "email": "dre@phreshr.com",
+    "email": "drejohnson212@gmail.com",
     "phone": null,
-    "website": "http://drejohnson.github.io/resume",
-    "summary": "I am a tech enthusiast with a passion for developing for the web. As a frontend javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing React on the frontend, I'm able to construct rich and performant UI's. My goal is to provide the best user experience while also optimizing for speed and performance. In the rapidly evolving landscape of frontend web development, I'm constantly on a journey to learn more and to grow as a developer.",
+    "website": "http://github.com/drejohnson",
+    "summary": "I am a tech enthusiast with a passion for developing for the web. As a frontend javascript developer, my job is to utilize the latest tech, trends and best practices for building performant apps in javascript. By utilizing libraries like React on the frontend, I'm able to construct rich and performant UI's. My goal is to provide the best user experience while also optimizing for speed and performance. In the rapidly evolving landscape of frontend web development, I'm constantly on a journey to learn more and to grow as a developer.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Atlanta",
-      "countryCode": "USA",
-      "region": null
+      "city": "Shanghai",
+      "countryCode": "CN",
+      "region": "China"
     },
     "profiles": [
       {
@@ -29,7 +29,7 @@
   },
   "work": [
     {
-      "company": "Remote/Consultancy",
+      "company": "Freelance",
       "position": "Frontend Developer",
       "website": null,
       "startDate": "2017-10",
@@ -39,7 +39,7 @@
         "Built 'Progressive Web Apps' in React",
         "Utilized async techniques like code-splitting and lazy-loading",
         "Developed modular components in React",
-        "Used GraphQL to pull data from various API's",
+        "Used REST or GraphQL to pull data from various API's",
         "Connect React frontend interface to Node.js backend",
         "Working with and contributing to open-source projects",
         "Worked with as a part of a team of developers, designers and project managers",
@@ -104,9 +104,16 @@
   ],
   "education": [
     {
+      "institution": "Lambda School",
+      "area": "Fullstack Web Development",
+      "studyType": null,
+      "startDate": "2019-09",
+      "endDate": null
+    },
+    {
       "institution": "Columbia College Chicago",
       "area": "Film/Video",
-      "studyType": "Bachelor",
+      "studyType": null,
       "startDate": "2004-09",
       "endDate": "2007-01"
     },
@@ -126,57 +133,42 @@
         "HTML5",
         "CSS",
         "Sass",
+        "PostCSS",
         "Responsive Design",
-        "Javascript (ES6+)"
+        "JavaScript"
       ]
     },
     {
-      "name": "Javascript",
+      "name": "Languages",
+      "level": null,
+      "keywords": ["JavaScript", "TypeScript", "ReasonML", "Rust"]
+    },
+    {
+      "name": "Frontend",
       "level": "Intermediate",
       "keywords": [
+        "Svelte",
         "React",
-        "Angular",
-        "Apollo",
-        "Redux",
-        "Node",
-        "Express",
-        "Typescript"
+        "Redux"
       ]
     },
     {
       "name": "Backend",
       "level": "Intermediate",
-      "keywords": ["Node", "Express", "Nginx"]
+      "keywords": ["Node", "Express"]
     },
     {
-      "name": "API",
+      "name": "API's",
       "level": "Intermediate",
-      "keywords": ["GraphQL"]
-    },
-    {
-      "name": "Reason/Ocaml",
-      "level": "Intermediate",
-      "keywords": ["Reason", "ReasonReact", "ReasonApollo", "bs-express"]
-    },
-    {
-      "name": "Cloud",
-      "level": "Intermediate",
-      "keywords": [
-        "AWS",
-        "Google Cloud Compute",
-        "Now",
-        "Linode",
-        "Digital Ocean",
-        "CloudFlare"
-      ]
+      "keywords": ["Apollo, GraphQL, Hasura, REST"]
     },
     {
       "name": "Databases",
       "level": "Intermediate",
-      "keywords": ["MySQL", "PostgreSQL", "MongoDB"]
+      "keywords": ["PostgreSQL", "MongoDB"]
     },
     {
-      "name": "Architecture",
+      "name": "Dev Ops",
       "level": "Intermediate",
       "keywords": ["Serverless", "Docker"]
     },
@@ -184,12 +176,6 @@
       "name": "Build Tools",
       "level": "Expert",
       "keywords": ["Webpack", "Parcel", "Rollup", "Gulp"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
     }
   ]
 }
